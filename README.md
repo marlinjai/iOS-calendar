@@ -1,7 +1,7 @@
 
 # iOS Calendar App
 
-This project is an iOS calendar application implemented using the MVC (Model-View-Controller) pattern. The application allows users to manage contacts with detailed information, including personal details, hobbies, and friends. 
+This project is an iOS calendar application implemented using the MVC (Model-View-Controller) pattern for our ios development course @HTW Berlin. The application allows users to manage contacts with detailed information, including personal details, hobbies, and friends. 
 
 ## Features
 
